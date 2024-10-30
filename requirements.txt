@@ -1,0 +1,8 @@
+transformers==4.31.0 # For working with Meta LLaMA and BitsAndBytesConfig
+accelerate==0.21.0 # For multi-GPU handling and model acceleration
+bitsandbytes==0.38.1 # For 8-bit quantization
+scipy==1.9.3
+
+# transformers==4.40.0 # For working with Meta LLaMA and BitsAndBytesConfig
+# accelerate==0.29.3 # For multi-GPU handling and model acceleration
+# bitsandbytes==0.43.1 
